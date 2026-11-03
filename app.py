@@ -23,7 +23,7 @@ from nyc_data import BOROUGH_CENTER, BOROUGH_HOODS, coords_for
 st.set_page_config(page_title="NYC Stay Classifier", page_icon="🏙️", layout="wide")
 
 MODEL_PATH = Path(__file__).parent / "Model_Pipeline.pkl"
-DEFAULT_API = os.getenv("API_URL", "http://127.0.0.1:8000")
+DEFAULT_API = os.getenv("API_URL", "https://nyc-airbnb-room-type-predictor-qalv.onrender.com")
 COLUMNS = [
     "latitude", "longitude", "price", "minimum_nights", "number_of_reviews",
     "reviews_per_month", "calculated_host_listings_count", "availability_365",
