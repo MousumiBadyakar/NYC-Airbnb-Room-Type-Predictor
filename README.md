@@ -7,8 +7,8 @@ The project combines **Machine Learning, Scikit-learn, FastAPI, and Streamlit** 
 ---
 ## 🚀 Live Demo
 
-- **NYC Airbnb Room Type Predictor – [Try it Live](https://nyc-airbnb-room-type-predictor-ndtrjzhihpqpju6omhz9zt.streamlit.app/)**
-- **Backend API (Render) - [Open API](https://nyc-airbnb-room-type-predictor-qalv.onrender.com)**
+- **NYC Airbnb Room Type Predictor – [Try it Live](https://nyc-airbnb-room-type-predictor-ndtrjzhihpqpuj6omhz9zt.streamlit.app/)**
+- **Backend API (Render) - [Open API](https://nyc-airbnb-room-type-predictor-qalv.onrender.com/docs)**
 ---
 
 ## 📌 Project Overview
